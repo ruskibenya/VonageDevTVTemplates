@@ -1,0 +1,37 @@
+<div class="Vlt-grid">
+  <div class="Vlt-col Vlt-col--1of3 padding-left-0">
+    <img src="https://res.cloudinary.com/dsg3ucw55/image/upload/v1596477949/16-7-2020_Nahrin_4_hkywr8.png" alt="New Stream, Who Dis?">
+  </div>
+  <div class="Vlt-col Vlt-col--2of3">
+    <div class="Vlt-grid">
+      <h4 class="Vlt-col mobile-center">New Stream, Who Dis?<br>Episode Title</h4>
+      <p class="Vlt-col Vlt-right mobile-justify">17:00 London / 12:00 New York / 11:00 SF</p>
+    </div>
+    <p class="Vlt-col padding-left-0 mobile-justify">
+      Episode Description
+    </p>
+  </div>
+  <div class="Vlt-grid padding-top-32">
+    <div class="Vlt-col Vlt-col--1of2">
+      <h4>About The Show</h4>
+      <p class="text-justify">
+        An ad hoc stream hosted by a variety of hosts from the DevRel team at Vonage. Variety of topics.
+      </p>
+    </div>
+    <div class="Vlt-col Vlt-col--1of2">
+      <h4 class="inline-block">About The Host</h4>
+      <a href="#" target="_blank">
+        <i class="icon icon-twitter"></i>
+      </a>
+      <a href="#" target="_blank">
+        <i class="icon icon-github"></i>
+      </a>
+      <h5>
+        Host Title
+      </h5>
+      <p class="text-justify">
+        Host Description
+      </p>
+    </div>
+  </div>
+</div>

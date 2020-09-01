@@ -1,0 +1,45 @@
+<div class="Vlt-grid">
+  <div class="Vlt-col Vlt-col--1of3 padding-left-0">
+    <img src="https://res.cloudinary.com/dsg3ucw55/image/upload/v1596477949/Developer_Drop-In_Lorna_1_2_lkqquz.png" alt="Developer Drop-In">
+  </div>
+  <div class="Vlt-col Vlt-col--2of3">
+    <div class="Vlt-grid">
+      <h4 class="Vlt-col mobile-center">Developer Drop-In: Episode Topic</h4>
+      <p class="Vlt-col Vlt-right mobile-justify">15:00 London / 10:00 New York / 09:00 SF</p>
+    </div>
+    <p class="Vlt-col padding-left-0 mobile-justify">
+      Episode Description
+    </p>
+    <h5 class="Vlt-col Vlt-title--icon padding-left-0 mobile-justify">
+      <svg class="Vlt-icon Vlt-icon--large"><use xlink:href="/symbol/volta-icons.svg#Vlt-icon-tool-full"></svg>
+      Vonage Verify API
+    </h5>
+  </div>
+  <div class="Vlt-grid padding-top-32">
+    <div class="Vlt-col Vlt-col--1of2">
+      <h4>About The Show</h4>
+      <p class="text-justify">
+        Bi-weekly, on Wednesdays, Developer Drop-In is a chance for developers to get their questions answered live on stream and meet the people who build the libraries and sample apps they know and love. Lorna is the host, often joined by other team members. She takes questions from the audience and builds something as a more detailed answer to questions the team receives on StackOverflow or the community slack.
+      </p>
+    </div>
+    <div class="Vlt-col Vlt-col--1of2">
+      <h4 class="inline-block">About Lorna Mitchell</h4>
+      <a href="https://twitter.com/lornajane" target="_blank">
+        <i class="icon icon-twitter"></i>
+      </a>
+      <a href="https://github.com/lornajane" target="_blank">
+        <i class="icon icon-github"></i>
+      </a>
+      <h5>
+        Senior Developer Advocate
+      </h5>
+      <p class="text-justify">
+        An enthusiastic, organised individual with a software engineering background. As a Developer Advocate I listen to developers both online and IRL and then work to improve their experience whether by talking or by patching. I love to write and am a published author; I am also a very experienced and engaging technical conference speaker. I am passionate about open source and helping developers to make even more awesome things than they did already, and I'm happiest when my GitHub graph is green.
+      </p>
+      </br>
+      <a class="Vlt-purple" href="https://lornajane.net">
+        https://lornajane.net
+      </a>
+    </div>
+  </div>
+</div>

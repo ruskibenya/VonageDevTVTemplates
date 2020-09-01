@@ -1,0 +1,72 @@
+<div class="Vlt-grid">
+  <div class="Vlt-col Vlt-col--1of3 padding-left-0">
+    <img src="https://res.cloudinary.com/dsg3ucw55/image/upload/v1596477949/The_Low-Code_Hour_1_iijvbd.png" alt="The Low-Code Hour">
+  </div>
+  <div class="Vlt-col Vlt-col--2of3">
+    <div class="Vlt-grid">
+      <h4 class="Vlt-col mobile-center">The Low-Code Hour</h4>
+      <p class="Vlt-col Vlt-right mobile-justify">15:00 London / 10:00 New York / 09:00 SF</p>
+    </div>
+    <p class="Vlt-col padding-left-0 mobile-justify">
+      Show Description
+    </p>
+    <h5 class="Vlt-col Vlt-title--icon padding-left-0 mobile-justify">
+      <svg class="Vlt-icon Vlt-icon--large"><use xlink:href="/symbol/volta-icons.svg#Vlt-icon-tool-full"></svg>
+      Vonage SMS API - Vonage Voice API
+    </h5>
+  </div>
+  <div class="padding-top-32">
+    <div class="Vlt-col padding-left-0">
+      <h4>About The Show</h4>
+      <p class="text-justify">
+        Bi-weekly on Wednesdays Sam and Julia explore different low-code tools, a software development approach that enables the delivery of applications faster and with minimal hand-coding, such as Node-Red, Zapier, Netlify, etc.
+      </p>
+    </div>
+    <div class="Vlt-grid padding-top-32">
+      <div class="Vlt-col Vlt-col--1of2">
+        <h4 class="inline-block">About Sam Machin</h4>
+        <a href="https://twitter.com/sammachin" target="_blank">
+          <i class="icon icon-twitter"></i>
+        </a>
+        <a href="https://github.com/sammachin" target="_blank">
+          <i class="icon icon-github"></i>
+        </a>
+        <h5>
+          Senior Product Manager
+        </h5>
+        <p class="text-justify">
+          Technical all rounder with a penchant for mobile, enjoys & excels at bridging the gap between product management & development.
+          <br>
+          A well rounded geek with a keen eye for end to end user experience.
+          <br>
+          Specialties: Architecture, Hacking, Prototypes, Ideas
+        </p>
+        </br>
+        <a class="Vlt-purple" href="https://www.sammachin.com">
+          SamMachin.com
+        </a>
+      </div>
+      <div class="Vlt-col Vlt-col--1of2">
+        <h4 class="inline-block">About Julia Biro</h4>
+        <a href="https://twitter.com/iza_biro" target="_blank">
+          <i class="icon icon-twitter"></i>
+        </a>
+        <a href="https://github.com/juliacodez" target="_blank">
+          <i class="icon icon-github"></i>
+        </a>
+        <h5>
+          Developer Advocate
+        </h5>
+        <p class="text-justify">
+          👩🏼‍💻, 🎨 & 🥑 shenanigans @DevRelAvocados and Vonage.
+          <br>
+          I spend most of my time wrangling Node-RED into doing my bidding, creating resources for the community.
+        </p>
+        </br>
+        <a class="Vlt-purple" href="https://developeravocados.net/">
+          DeveloperAvocados.net
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
