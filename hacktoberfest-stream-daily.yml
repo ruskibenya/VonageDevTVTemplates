@@ -1,0 +1,61 @@
+<div class="Vlt-grid">
+  <div class="Vlt-col Vlt-col--1of2 padding-left-0">
+    <img src="https://res.cloudinary.com/dsg3ucw55/image/upload/v1601061031/hacktoberfest/lauren_lorna-dark_1_widcbj.png" alt="Lauren&Lorna Hacktoberfest">
+  </div>
+  <div class="Vlt-col Vlt-col--1of2">
+    <div class="Vlt-grid">
+      <h4 class="Vlt-col mobile-center">Hacktoberfest Daily Stream</h4>
+      <p class="Vlt-col Vlt-right mobile-justify">19:00 London / 14:00 New York / 11:00 SF</p>
+    </div>
+    <p class="Vlt-col padding-left-0 mobile-justify">
+      Lauren and Lorna will kick off our daily streaming with an introduction of our Hacktoberfest content!
+    </p>
+    <h5 class="Vlt-col Vlt-title--icon padding-left-0 mobile-justify">
+      <svg class="Vlt-icon Vlt-icon--large"><use xlink:href="/symbol/volta-icons.svg#Vlt-icon-tool-full"></svg>
+      Hacktoberfest - Open Source
+    </h5>
+  </div>
+  <div class="padding-top-32">
+    <div class="Vlt-grid padding-top-32">
+      <div class="Vlt-col Vlt-col--1of2">
+        <h4 class="inline-block">About Lauren Lee</h4>
+        <a href="https://twitter.com/LoLoCoding" target="_blank">
+          <i class="icon icon-twitter"></i>
+        </a>
+        <a href="https://github.com/laurenelee" target="_blank">
+          <i class="icon icon-github"></i>
+        </a>
+        <h5>
+          Developer Educator Manager
+        </h5>
+        <p class="text-justify">
+          An English teacher turned empathetic software engineer. A curious optimist with a passion for creating accessible content and helping developers level up their skills.
+        </p>
+        </br>
+        <a class="Vlt-purple" href="https://lolocoding.com">
+          LoLoCoding.com
+        </a>
+      </div>
+      <div class="Vlt-col Vlt-col--1of2">
+        <h4 class="inline-block">About Lorna Mitchell</h4>
+        <a href="https://twitter.com/lornajane" target="_blank">
+          <i class="icon icon-twitter"></i>
+        </a>
+        <a href="https://github.com/lornajane" target="_blank">
+          <i class="icon icon-github"></i>
+        </a>
+        <h5>
+          Senior Developer Advocate
+        </h5>
+        <p class="text-justify">
+          Lorna is a software engineer with an incurable blogging habit. She works on the Developer Relations team at Nexmo and tries to tame words and code in equal measure.
+        </p>
+        </br>
+        <a class="Vlt-purple" href="https://lornajane.net">
+          https://lornajane.net
+        </a>
+      </div>
+
+    </div>
+  </div>
+</div>

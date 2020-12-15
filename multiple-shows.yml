@@ -1,0 +1,11 @@
+<div class="Vlt-table__cell Vlt-grid padding-left-0 padding-right-0" id="date">
+  <span class="Vlt-col padding-0">
+    <div class="calendar-item Vlt-tabs__link height-auto" id="date-a">
+      <b>date</b>
+      <p class="show">First Show</p>
+    </div>
+    <div class="calendar-item Vlt-tabs__link height-auto" id="date-b">
+      <p class="show">Additional Show</p>
+    </div>
+  </span>
+</div>

@@ -1,0 +1,45 @@
+<div class="Vlt-table__row">
+  <div class="Vlt-table__cell Vlt-grid padding-left-0 padding-right-0" id="1">
+    <span class="Vlt-col padding-0">
+      <div class="calendar-item Vlt-tabs__link height-auto no-bottom-borde" id="1a" role="tab">
+        <b>1</b>
+        <p class="show">#SHOW-TITLE</p>
+      </div>
+    </span>
+  </div>
+  <div class="Vlt-table__cell Vlt-grid padding-left-0 padding-right-0" id="2">
+    <span class="Vlt-col padding-0">
+      <div class="calendar-item Vlt-tabs__link height-auto no-bottom-border Vlt-tabs__link_disabled" id="2a" role="tab">
+        <b>2</b>
+        <p class="show"></p>
+      </div>
+    </span>
+  </div>
+  <div class="Vlt-table__cell Vlt-grid padding-left-0 padding-right-0" id="3">
+    <span class="Vlt-col padding-0">
+      <div class="calendar-item Vlt-tabs__link height-auto no-bottom-border" id="3a" role="tab">
+        <b>3</b>
+        <p class="show">#SHOW-TITLE</p>
+      </div>
+      <div class="calendar-item Vlt-tabs__link height-auto no-bottom-border" id="3b" role="tab">
+        <p class="show">#SHOW-TITLE2</p>
+      </div>
+    </span>
+  </div>
+  <div class="Vlt-table__cell Vlt-grid padding-left-0 padding-right-0" id="4">
+    <span class="Vlt-col padding-0">
+      <div class="calendar-item Vlt-tabs__link height-auto no-bottom-border" id="4a" role="tab">
+        <b>4</b>
+        <p class="show"></p>
+      </div>
+    </span>
+  </div>
+  <div class="Vlt-table__cell Vlt-grid padding-left-0 padding-right-0" id="5">
+    <span class="Vlt-col padding-0">
+      <div class="calendar-item Vlt-tabs__link height-auto no-bottom-border Vlt-tabs__link_disabled" id="5a" role="tab">
+        <b>5</b>
+        <p class="show"></p>
+      </div>
+    </span>
+  </div>
+</div>

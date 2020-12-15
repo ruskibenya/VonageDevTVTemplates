@@ -1,0 +1,58 @@
+<div class="Vlt-grid">
+  <div class="Vlt-col Vlt-col--1of3 padding-left-0">
+    <img src="https://res.cloudinary.com/dsg3ucw55/image/upload/v1600671582/Twitch_Show_Social_Graphics_3_i87htl.png" alt="Mistakes Were Made">
+  </div>
+  <div class="Vlt-col Vlt-col--2of3">
+    <div class="Vlt-grid">
+      <h4 class="Vlt-col mobile-center">Mistakes Were Made</h4>
+      <p class="Vlt-col Vlt-right mobile-justify">16:00 London / 11:00 New York / 08:00 SF</p>
+    </div>
+    <p class="Vlt-col padding-left-0 mobile-justify">
+      <h5>Adding Screen Sharing to a Video API Screenshare</h5>
+      Sometimes saying something isn't enough. You need to be able to share your screen with others. In this episode, we'll add the ability to share our screen using the Vonage Video API in a VueJS application.
+    </p>
+    <br>
+    <b>Links:</b>
+    <a href="https://tokbox.com/developer/" target="_blank">
+      Vonage Video API Developer Center
+    </a>
+    <b> - </b>
+    <a href="https://www.deepar.ai/" target="_blank">
+      Deep AR
+    </a>
+    <br><br>
+    <h5 class="Vlt-col Vlt-title--icon padding-left-0 mobile-justify">
+      <svg class="Vlt-icon Vlt-icon--large"><use xlink:href="/symbol/volta-icons.svg#Vlt-icon-tool-full"></svg>
+      Vonage Video API
+    </h5>
+  </div>
+  <div class="Vlt-grid padding-top-32">
+    <div class="Vlt-col Vlt-col--1of2">
+      <h4>About The Show</h4>
+      <p class="text-justify">
+        Every week, Michael repeats the cycle of 'make, mistake, make' as he attempts to learn, build & teach something new.
+      </p>
+    </div>
+    <div class="Vlt-col Vlt-col--1of2">
+      <h4 class="inline-block">About Michael Jolley</h4>
+      <a href="https://twitter.com/baldbeardbuild" target="_blank">
+        <i class="icon icon-twitter"></i>
+      </a>
+      <a href="https://github.com/MichaelJolley" target="_blank">
+        <i class="icon icon-github"></i>
+      </a>
+      <h5>
+        Developer Advocate
+      </h5>
+      <p class="text-justify">
+        Michael is the bald, bearded builder.
+        <br>
+        Using his 20 years experience in software development and DevOps, this follicly challenged developer spends his days focused on helping others succeed.
+      </p>
+      </br>
+      <a class="Vlt-purple" href="https://baldbeardedbuilder.com/">
+         BaldBeardedBuilder.com
+      </a>
+    </div>
+  </div>
+</div>

@@ -4,10 +4,11 @@
   </div>
   <div class="Vlt-col Vlt-col--2of3">
     <div class="Vlt-grid">
-      <h4 class="Vlt-col mobile-center">New Stream, Who Dis?<br>Episode Title</h4>
+      <h4 class="Vlt-col mobile-center">New Stream, Who Dis?</h4>
       <p class="Vlt-col Vlt-right mobile-justify">17:00 London / 12:00 New York / 11:00 SF</p>
     </div>
     <p class="Vlt-col padding-left-0 mobile-justify">
+      <h5>Episode Title</h5>
       Episode Description
     </p>
   </div>

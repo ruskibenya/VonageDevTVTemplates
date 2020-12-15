@@ -1,0 +1,63 @@
+                  <div class="Vlt-grid">
+                    <div class="Vlt-col Vlt-col--1of3 padding-left-0">
+                      <img src="https://res.cloudinary.com/dsg3ucw55/image/upload/v1599559866/Twitter_Post_-_1_24_trssdl.png" alt="Build a Thing with Kevin Lewis">
+                    </div>
+                    <div class="Vlt-col Vlt-col--2of3">
+                      <div class="Vlt-grid">
+                        <h4 class="Vlt-col mobile-center">Build a Thing with Kevin Lewis</h4>
+                        <p class="Vlt-col Vlt-right mobile-justify">18:00 London / 13:00 New York / 10:00 SF</p>
+                      </div>
+                      <p class="Vlt-col padding-left-0 mobile-justify">
+                        Join Kevin Lewis, Developer Advocate at Vonage, as he builds a new project from scratch over several weeks.
+                        <br><br>
+                        Kevin is currently building a serverless video conferencing application using Netlify Functions, MongoDB, Vue.js and the Vonage Video API. In this episode, Kevin will set up the base project ready to add new features to!
+                        <br><br>
+                        <b>Links:</b>
+                        <a href="https://github.com/nexmo-community/build-a-thing-video-conferencing" target="_blank">
+                          Companion Repo
+                        </a>
+                        <b> - </b>
+                        <a href="https://www.netlify.com/products/functions" target="_blank">
+                          Netlify Functions
+                        </a>
+                        <b> - </b>
+                        <a href="https://tokbox.com/developer/sdks/node/" target="_blank">
+                          Vonage Video API Docs
+                        </a>
+                        <br>
+                        <a href="https://dev.to/_phzn/accessing-mongodb-atlas-from-netlify-functions-1h70" target="_blank">
+                          Accessing MongoDB Atlas from Netlify Functions
+                        </a>
+                      </p>
+                      <h5 class="Vlt-col Vlt-title--icon padding-left-0 mobile-justify">
+                        <svg class="Vlt-icon Vlt-icon--large"><use xlink:href="/symbol/volta-icons.svg#Vlt-icon-tool-full"></svg>
+                        JavaScript - Node.js - HTML - CSS - Vonage Video API - Serverless - Netlify - MongoDB - Vue.js
+                      </h5>
+                    </div>
+                    <div class="Vlt-grid padding-top-32">
+                      <div class="Vlt-col Vlt-col--1of2">
+                        <h4>About The Show</h4>
+                        <p class="text-justify">
+                          Join Kevin Lewis, Developer Advocate at Vonage, as he builds a new project from scratch over 5 weeks.
+                          <br>
+                          <br>
+                          Kevin is currently building a serverless video conferencing application using Netlify Functions, MongoDB, Vue.js and the Vonage Video API.
+                        </p>
+                      </div>
+                      <div class="Vlt-col Vlt-col--1of2">
+                        <h4 class="inline-block">About Kevin Lewis</h4>
+                        <a href="https://twitter.com/_phzn" target="_blank">
+                          <i class="icon icon-twitter"></i>
+                        </a>
+                        <a href="https://github.com/phazonoverload" target="_blank">
+                          <i class="icon icon-github"></i>
+                        </a>
+                        <h5>
+                          Developer Advocate
+                        </h5>
+                        <p class="text-justify">
+                          Kevin Lewis is a Developer Advocate for Vonage, where his role is to support the local tech community in London. He’s an experienced events organiser, boardgamer and dad to a cute little dog called Moo. He’s also the lead organizer for You Got This - a network of events on the core skills needed for a happy, healthy work life.
+                        </p>
+                      </div>
+                    </div>
+                  </div>
